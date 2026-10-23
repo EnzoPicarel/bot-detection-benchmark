@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Captcha Breaking Benchmark</h3>
+  <h3 align="center">Bot Detection Benchmark</h3>
 
   <p align="center">
    A comparative benchmark of <strong>Generative and Discriminative</strong> models implemented from scratch in <strong>NumPy</strong> to classify human vs. bot behavior.
@@ -7,8 +7,12 @@
     <a href="#-getting-started"><strong>Quick Start »</strong></a>
   </p>
   
-  ![CI Status](https://img.shields.io/badge/build-passing-brightgreen)
-  ![License](https://img.shields.io/badge/license-MIT-blue)
+  <p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white">
+    <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat&amp;logoColor=white">
+  </p>
 </div>
 
 ## 🔍 About The Project
